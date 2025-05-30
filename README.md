@@ -5,7 +5,7 @@ Year: 2025
 
 Paper Title: Tree Monoculture Plantations Decrease Plant Diversity in the Italian Prealps
 
-Authors: Vanessa Manuzi1, Simone Balestra1, Pietro Gatti1, Gianalberto Losapio1,2*
+Authors: Vanessa Manuzi , Simone Balestra , Pietro Gatti , Gianalberto Losapio
 
 Institutions:
 1 Department of Biosciences, University of Milan, via Celoria 26, 20133 Milan, Italy
