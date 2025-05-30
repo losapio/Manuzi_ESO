@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data collected for Manuzi et al 2025 Ecological Solutions
+  and Evidence
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Vanessa
+    family-names: Manuzi
+    affiliation: University of Milan
+  - given-names: Simone
+    family-names: Balestra
+    affiliation: University of Milan
+  - given-names: Pietro
+    family-names: Gatti
+    affiliation: University of Milan
+  - given-names: Gianalberto
+    family-names: Losapio
+    email: gianalberto.losapio@unimi.it
+    affiliation: University of Milan
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15550910
+    description: Zenodo DOI
+license: MIT
